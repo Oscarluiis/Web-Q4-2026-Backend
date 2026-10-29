@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "lARXu6x02VI=",
+  "success": true,
+  "projectFilePath": "/Users/oscarluiis/RiderProjects/ProyectoQ4Backend/ProyectoQ4Backend/ProyectoQ4Backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/oscarluiis/.nuget/packages/microsoft.aspnetcore.openapi/10.0.7/microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "/Users/oscarluiis/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/Users/oscarluiis/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "/Users/oscarluiis/RiderProjects/ProyectoQ4Backend/ProyectoQ4Backend/ProyectoQ4Backend.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/oscarluiis/RiderProjects/ProyectoQ4Backend/ProyectoQ4Backend/ProyectoQ4Backend.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
