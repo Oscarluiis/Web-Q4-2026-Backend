@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lARXu6x02VI=",
+  "dgSpecHash": "rzr1WJjsP7o=",
   "success": true,
   "projectFilePath": "/Users/oscarluiis/RiderProjects/ProyectoQ4Backend/ProyectoQ4Backend/ProyectoQ4Backend.csproj",
   "expectedPackageFiles": [
     "/Users/oscarluiis/.nuget/packages/microsoft.aspnetcore.openapi/10.0.7/microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
-    "/Users/oscarluiis/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
-    "/Users/oscarluiis/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+    "/Users/oscarluiis/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
   ],
   "logs": [
     {
