@@ -44,7 +44,7 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
-            "Google.Cloud.Firestore.V1": {
+            "Google.Cloud.Firestore": {
               "target": "Package",
               "version": "[4.6.0, )"
             },
