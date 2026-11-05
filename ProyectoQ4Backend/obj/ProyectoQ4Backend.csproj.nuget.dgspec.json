@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oscarluiis/RiderProjects/ProyectoQ4Backend/ProyectoQ4Backend/ProyectoQ4Backend.csproj": {}
+    "/home/oscarluiis/Documents/Web759/Web-Q4-2026-Backend/ProyectoQ4Backend/ProyectoQ4Backend.csproj": {}
   },
   "projects": {
-    "/Users/oscarluiis/RiderProjects/ProyectoQ4Backend/ProyectoQ4Backend/ProyectoQ4Backend.csproj": {
+    "/home/oscarluiis/Documents/Web759/Web-Q4-2026-Backend/ProyectoQ4Backend/ProyectoQ4Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oscarluiis/RiderProjects/ProyectoQ4Backend/ProyectoQ4Backend/ProyectoQ4Backend.csproj",
+        "projectUniqueName": "/home/oscarluiis/Documents/Web759/Web-Q4-2026-Backend/ProyectoQ4Backend/ProyectoQ4Backend.csproj",
         "projectName": "ProyectoQ4Backend",
-        "projectPath": "/Users/oscarluiis/RiderProjects/ProyectoQ4Backend/ProyectoQ4Backend/ProyectoQ4Backend.csproj",
-        "packagesPath": "/Users/oscarluiis/.nuget/packages/",
-        "outputPath": "/Users/oscarluiis/RiderProjects/ProyectoQ4Backend/ProyectoQ4Backend/obj/",
+        "projectPath": "/home/oscarluiis/Documents/Web759/Web-Q4-2026-Backend/ProyectoQ4Backend/ProyectoQ4Backend.csproj",
+        "packagesPath": "/home/oscarluiis/.nuget/packages/",
+        "outputPath": "/home/oscarluiis/Documents/Web759/Web-Q4-2026-Backend/ProyectoQ4Backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/oscarluiis/.nuget/NuGet/NuGet.Config"
+          "/home/oscarluiis/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/oscarluiis/.dotnet/sdk/10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
