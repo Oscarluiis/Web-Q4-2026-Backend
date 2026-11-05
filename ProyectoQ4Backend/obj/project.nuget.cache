@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3CgYB7G/eLM=",
+  "dgSpecHash": "bz7KZZpVwXI=",
   "success": true,
   "projectFilePath": "/home/oscarluiis/Documents/Web759/Web-Q4-2026-Backend/ProyectoQ4Backend/ProyectoQ4Backend.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "/home/oscarluiis/.nuget/packages/google.apis/1.73.0/google.apis.1.73.0.nupkg.sha512",
     "/home/oscarluiis/.nuget/packages/google.apis.auth/1.73.0/google.apis.auth.1.73.0.nupkg.sha512",
     "/home/oscarluiis/.nuget/packages/google.apis.core/1.73.0/google.apis.core.1.73.0.nupkg.sha512",
+    "/home/oscarluiis/.nuget/packages/google.cloud.firestore/4.6.0/google.cloud.firestore.4.6.0.nupkg.sha512",
     "/home/oscarluiis/.nuget/packages/google.cloud.firestore.v1/4.6.0/google.cloud.firestore.v1.4.6.0.nupkg.sha512",
     "/home/oscarluiis/.nuget/packages/google.cloud.location/2.4.0/google.cloud.location.2.4.0.nupkg.sha512",
     "/home/oscarluiis/.nuget/packages/google.longrunning/3.5.0/google.longrunning.3.5.0.nupkg.sha512",
@@ -20,7 +21,7 @@
     "/home/oscarluiis/.nuget/packages/grpc.net.common/2.71.0/grpc.net.common.2.71.0.nupkg.sha512",
     "/home/oscarluiis/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/10.0.14/microsoft.aspnetcore.authentication.jwtbearer.10.0.14.nupkg.sha512",
     "/home/oscarluiis/.nuget/packages/microsoft.aspnetcore.openapi/10.0.7/microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
-    "/home/oscarluiis/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/home/oscarluiis/.nuget/packages/microsoft.bcl.asyncinterfaces/10.0.14/microsoft.bcl.asyncinterfaces.10.0.14.nupkg.sha512",
     "/home/oscarluiis/.nuget/packages/microsoft.bcl.cryptography/10.0.2/microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
     "/home/oscarluiis/.nuget/packages/microsoft.identitymodel.abstractions/8.19.2/microsoft.identitymodel.abstractions.8.19.2.nupkg.sha512",
     "/home/oscarluiis/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.19.2/microsoft.identitymodel.jsonwebtokens.8.19.2.nupkg.sha512",
